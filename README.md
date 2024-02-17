@@ -1,4 +1,9 @@
 # ROS2-Gazebo-Aruco
+
+<div style="text-align:center;">
+  <img src="./images/screenshot.png" alt="screenshot of the tutorial" style="max-width:100%; height:auto;">
+</div>
+
 This repository provides a tutorial on using an ArUco marker detector within a Gazebo simulation environment. It demonstrates how to determine the position of an ArUco marker using a camera setup in Gazebo. This guide utilizes the open-source GitHub repo [ros2_aruco](https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco) as a key component.
 
 
