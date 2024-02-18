@@ -64,7 +64,7 @@ sudo apt-get install ros-humble-tf-transformations
 ```
 8. Next, test if this works
 ```
-urce ~/gz_ros2_aruco_ws/install/setup.bash
+source ~/gz_ros2_aruco_ws/install/setup.bash
 ros2 run ros2_aruco aruco_generate_marker
 ```
 9. If it gives an error, do the following lines. if it gives back nothing then it works and you can skip this step.
